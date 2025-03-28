@@ -1,5 +1,8 @@
 Coursework for project @ University College London
 
-MSc Artificial Intelligence for Biomedicine and Healthcare
+Module: Applied Artificial Intelligence
+Professor: Janaina Mourao-Miranda
 
-Computer Science Department
+Course: MSc Artificial Intelligence for Biomedicine and Healthcare
+
+Department: Computer Science
