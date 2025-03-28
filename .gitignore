@@ -2,3 +2,4 @@ data/
 *.log
 lab_inspiration/
 output_data/
+.vscode/
